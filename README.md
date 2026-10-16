@@ -28,8 +28,7 @@ Je me forme à la **data** et à l'**IA** tout en construisant des projets perso
 
 | Projet | Description | Technologies |
 | --- | --- | --- |
-| [**Nicheme**](https://nicheme-phi.vercel.app/) | Site de notation de musiques inspiré de Letterboxd : noter des albums, comparer sa discographie avec ses amis, obtenir un score de « nicheness ». Réalisé avec l'assistance d'un agent de code IA (Antigravity). | Web, Vercel |
-| [**customer-churn-analysis**](https://github.com/Fischer86/customer-churn-analysis) | Nettoyage et exploration du dataset « Telco Customer Churn », identification des variables liées à l'attrition des clients et recommandations pour la réduire. | Python, Pandas, NumPy, Seaborn, Jupyter |
+| [**Nicheme**](https://nicheme-phi.vercel.app/) | Site de notation de musiques inspiré de Letterboxd : noter des albums, comparer sa discographie avec ses amis. Réalisé avec l'assistance d'un agent de code IA (Antigravity). | Web, Vercel |
 | **Commandes UNIX en C** | Réimplémentation de commandes UNIX (`echo`, puis `cat`), gestion des erreurs de compilation. | C, Linux, git |
 | **Piscine, École 42** | 1 mois d'immersion intensive : programmation C sous Linux, scripting shell, automatisation des commits git. | C, shell, git |
 
